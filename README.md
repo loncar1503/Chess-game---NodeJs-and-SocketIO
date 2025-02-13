@@ -10,3 +10,7 @@ This project is a real-time multiplayer chess game built with **Node.js**, **Soc
 ✅ **Database Integration** – **MySQL** is used to store user data, game history, and match records  
 
 
+## Gameplay
+
+
+https://github.com/user-attachments/assets/f5caba03-6046-44ba-bcd1-c9f6a8d318c9
